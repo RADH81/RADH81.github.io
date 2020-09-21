@@ -1,0 +1,39 @@
+html>
+  <head>  
+   <title> 
+    About Myself
+   </title>
+   
+  </head>
+ <body bgcolor="Black">
+ <font size="20px" color="#EAC117">
+ <h1> <img src="film.png" width="200" height="100"/>About Myself   </h1>
+  
+ 
+  <center>
+   <p> <font size="10px" color="EAC117"> Name:Radh Shahmat. <br>ID:011202280.  </font> </p> 
+  </center>
+  <font size="10px" color="#EAC117" >  Educational Background </font>
+  </font>
+   
+    
+    <center>
+	<font size="05px" color="EAC117">School Name: <a href="https://www.facebook.com/idealschoolandcollegedhaka" target="_blank" > Ideal School And College - Dhaka </a>  Passing Year:2016 </font>
+	</center>
+	<br>                                                                                                                               <br>
+	
+	<center>
+	<font size="05px" color="EAC117"> College Name: <a href="https://www.facebook.com/allGSC" target="_blank"> Govt. Science College, Tejgaon, Dhaka-1215 </a> Passing Year:2018 </font>
+	</center>
+	<br>                                                                                                                               <br>
+	<br>                                                                                                                            	<br>
+	
+	<center>
+	<font size="05px" color="EAC117"> University: <a href="http://www.uiu.ac.bd/" target="_blank"> United International University </font>
+	</center>
+	<br>                  <br>
+	<br>                  <br>
+	
+   
+    
+ </body>
